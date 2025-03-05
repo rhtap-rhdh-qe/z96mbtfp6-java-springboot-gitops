@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z96mbtfp6-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/z96mbtfp6-java-springboot
